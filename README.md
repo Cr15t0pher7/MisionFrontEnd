@@ -2,7 +2,7 @@
 
 PRACTICAS CRISTOPHER GUTIERREZ 
 
-PRACTICA 1 - (./01%20-%20INTRO/README.md)
+PRACTICA 1 - (./01%20-%20INTRO)
 
    - ¿Qué es la programación FRONTEND?
    - ¿Para que sirve la programación FRONTEND?

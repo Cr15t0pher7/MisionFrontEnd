@@ -1,20 +1,8 @@
-# FrontEnd-Mision
+# FrontEnd-Mission
 
-## Bienvenidos Explorers!
+PRACTICAS CRISTOPHER GUTIERREZ 
 
-Estas entrando en tu misión de FrontEnd!
-
-En esta misión veremos la mágia de cómo funcionan las aplicaciones y es tu introducción a la programación Web en su camino a convertirse en programadores FullStack.
-
-![Frontend Image](./images/frontend.gif)
-
----
-
-## Organización de MISIÓN FRONTEND
-
-El curso tiene 8 módulos que tienen dentro varios subtemas que iremos viendo conforme avance el curso
-
-1. [Programación FrontEnd](./01%20-%20INTRO/README.md)
+PRACTICA 1 - (./01%20-%20INTRO/README.md)
 
    - ¿Qué es la programación FRONTEND?
    - ¿Para que sirve la programación FRONTEND?
